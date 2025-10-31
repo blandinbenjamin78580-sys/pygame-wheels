@@ -1,10 +1,10 @@
-# PyGame wheels for Python on Windows
+# Pygame wheels for Python on Windows
 
-This repository provides unofficial binary wheels for [PyGame](https://github.com/pygame/pygame) for Python on Windows.
+This repository provides unofficial binary wheels for [Pygame](https://github.com/pygame/pygame) for Python on Windows.
 
 The files are unofficial (meaning: informal, unrecognized, personal, unsupported, no warranty, no liability, provided "as is") and made available for testing and evaluation purposes.
 
-PyGame is released under the GNU LESSER GENERAL PUBLIC LICENSE version 2.1.
+Pygame is released under the GNU LESSER GENERAL PUBLIC LICENSE version 2.1.
 
 Source code changes, if any, have been submitted to the project maintainers or are included in the wheels.
 
